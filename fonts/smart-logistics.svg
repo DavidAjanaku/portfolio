@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 21</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IOTEmbeded-" transform="translate(-189.000000, -1340.000000)" fill-rule="nonzero">
+            <g id="Group-21" transform="translate(189.000000, 1340.000000)">
+                <g id="smart-hotel-systems-copy-2" fill="#E7F7FF">
+                    <rect id="Rectangle-Copy-16" x="0" y="0" width="60" height="60" rx="6"></rect>
+                </g>
+                <g id="Group-15" transform="translate(11.000000, 7.000000)" stroke="#008FFF" stroke-linecap="round" stroke-width="1.5">
+                    <path d="M19,33 L19,46" id="Stroke-1"></path>
+                    <polyline id="Stroke-3" points="24.9987 19.5258 37.9997 24.9998 37.9997 37.9998 18.9997 45.9998 -0.0003 37.9998 -0.0003 24.9998 13.0007 19.5258"></polyline>
+                    <polyline id="Stroke-5" points="38 25 19 33 0 25"></polyline>
+                    <path d="M19,25 C21.261,17.47 28,15.908 28,9 C28,4.157 23.694,0 19,0 C14.306,0 10,4.157 10,9 C10,15.908 16.738,17.47 19,25 Z" id="Stroke-7"></path>
+                    <path d="M19.0123,6 C20.6763,6 22.0243,7.338 22.0243,8.988 C22.0243,10.637 20.6763,11.975 19.0123,11.975 C17.3483,11.975 16.0003,10.637 16.0003,8.988 C16.0003,7.338 17.3483,6 19.0123,6 Z" id="Stroke-9"></path>
+                    <path d="M34,34 L34,36" id="Stroke-11"></path>
+                    <path d="M31,35 L31,37" id="Stroke-13"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
