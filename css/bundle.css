@@ -15,7 +15,7 @@ html {
 body {
   margin: 0;
   position: relative;
-  background-color: #308fb4;
+  background-color: #9dd0e4;
   width: 100%;
   overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
@@ -1137,6 +1137,15 @@ h3 ~ p {
   font-size: 14px;
   line-height: 1.5;
   font-weight: 400;
+}
+.mobile--btn{
+  background: linear-gradient(to right ,rgb(103, 36, 190),rgb(77, 77, 155)) !important;
+  border-radius: 50px;
+  border: 1px rgb(0, 0, 0) !important;
+}
+.desktop--btn{
+  background: linear-gradient(to right ,rgb(103, 36, 190),rgb(77, 77, 155)) !important;
+border-radius: 60px;
 }
 .block-markdown--contacts > ul > li:nth-last-child(2) {
   margin-bottom: 0;
@@ -5509,6 +5518,8 @@ body.cases-transplant-hero header:before {
     top: 40%;
   }
 }
+
+
 .contact-btn {
   padding: 70px 0;
   background-color: #fff;
@@ -18449,8 +18460,12 @@ body.services-outsourcing-software-development-ukraine-services
   text-transform: uppercase;
 }
 .title--black {
-  color: #323232;
+  color: #ffffff;
   text-align: center;
+}
+
+.about-white{
+    color: #fff !important;
 }
 .title--uppercase,
 h2 {
@@ -26851,6 +26866,7 @@ body.services-index .faq__wrapper {
 .service-cta {
   height: 200px;
   width: 100vw;
+  
   background: -webkit-linear-gradient(
     201deg,
     #343434,
@@ -31653,7 +31669,7 @@ canvas {
   }
 }
 .map-scroll .mission-vision {
-  padding: 330px 0 55px;
+  padding: 100px 0 55px;
 }
 @media screen and (max-width: 868px) and (orientation: landscape) {
   .map-scroll .mission-vision {

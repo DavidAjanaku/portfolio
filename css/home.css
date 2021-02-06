@@ -974,10 +974,7 @@ h3 ~ p {
   .button--white-gray {
     font-size: 14px;
   }
-  .mobile--btn{
-    background: linear-gradient(to right ,rgb(103, 36, 190),rgb(77, 77, 155)) !important;
-
-  }
+ 
 }
 .button--white-gray [class*=" isoi-"],
 .button--white-gray [class^="isoi-"] {

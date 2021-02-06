@@ -33,6 +33,11 @@
   animation-duration: .75s;
 }
 
+.mobile--btn{
+  background: linear-gradient(to right ,rgb(103, 36, 190),rgb(77, 77, 155)) !important;
+  border-radius: 50px;
+}
+
 @-webkit-keyframes bounce {
   from, 20%, 53%, 80%, to {
     -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
