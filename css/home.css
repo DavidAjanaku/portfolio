@@ -4015,6 +4015,13 @@ body.pages-contacts .static {
 .hero-slider__item--9 .hero-slider__content {
   position: relative;
 }
+
+.hero-slider__item--8 .hero-slider__content {
+  position: relative;
+}
+.hero-slider__item--3 .hero-slider__content {
+  position: relative;
+}
 .hero-slider__item--9:before {
   content: "";
   position: absolute;
@@ -4023,6 +4030,24 @@ body.pages-contacts .static {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.7);
+}
+.hero-slider__item--3:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.hero-slider__item--8:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 .hero-slider--nav .owl-nav .owl-next,
 .hero-slider--nav .owl-nav .owl-prev {
