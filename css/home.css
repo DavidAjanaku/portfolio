@@ -4537,7 +4537,9 @@ body.pages-contacts .static {
   }
   .js-scroll .logo,
   .nav.is-hover .logo {
-    background-image: url(../fonts/logo-blue.svg);
+    background-image: url(../images/codey.png);
+    margin-top: 0;
+    height: 100px;
   }
 }
 .nav {
@@ -4604,7 +4606,7 @@ body.pages-contacts .static {
   color: #1476f2;
 }
 .nav--black .logo {
-  background-image: url(../fonts/logo-blue.svg);
+  background-image: url(../images/codey.png);
 }
 .nav--black .nav__list li .menu-item-link {
   color: #323232;
@@ -5246,7 +5248,7 @@ body.pages-contacts .static {
   }
 }
 .js-hidden .logo-white {
-  background-image: url(../fonts/logo-blue.svg);
+  background-image: url(../images/codey-1.png);
 }
 @media (min-width: 1221px) {
   .js-hidden {
@@ -5273,20 +5275,21 @@ body.pages-contacts .static {
   }
 }
 .logo {
-  background-image: url(../fonts/logo-blue.svg);
+  background-image: url(../images/codey-1.png);
   background-size: cover;
   background-position: 50%;
   background-repeat: no-repeat;
   display: block;
-  height: 46px;
-  width: 170px;
+  height: 100px;
+  width: 100px;
+  margin-top: 50px;
   -webkit-transition: -webkit-transform 0.3s;
   transition: -webkit-transform 0.3s;
   transition: transform 0.3s;
   transition: transform 0.3s, -webkit-transform 0.3s;
 }
 .logo-white {
-  background-image: url(../fonts/logo-white.svg);
+  background-image: url(../images/codey.png);
 }
 .nav-mobile {
   position: fixed;
@@ -5315,12 +5318,12 @@ body.pages-contacts .static {
   padding-top: 60px;
 }
 .nav-mobile .nav__logo--mobile .logo {
-  background-image: url(../fonts/logo-blue.svg);
+  background-image: url(../images/codey.png);
   background-size: cover;
   background-position: 50%;
   background-repeat: no-repeat;
   display: block;
-  height: 40px;
+  height: 100px;
   width: 146px;
   -webkit-transition: -webkit-transform 0.3s;
   transition: -webkit-transform 0.3s;
@@ -5713,7 +5716,7 @@ body.pages-contacts .static {
   height: 0;
 }
 .nav--case-main .logo {
-  background-image: url(../fonts/logo-white.svg);
+  background-image: url(../images/codey.png);
 }
 .nav--case-main .sandwich {
   display: inline-block;
