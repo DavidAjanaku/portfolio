@@ -11689,7 +11689,9 @@ body.platforms-travel-hospitality-software-development
   }
   .js-scroll .logo,
   .nav.is-hover .logo {
-    background-image: url(img/logo-blue.svg);
+    background-image: url(../images/codey.png);
+    width: 100px;
+    height: 100px;;
   }
 }
 .nav {
@@ -11756,7 +11758,9 @@ body.platforms-travel-hospitality-software-development
   color: #1476f2;
 }
 .nav--black .logo {
-  background-image: url(img/logo-blue.svg);
+  background-image: url(../images/codey.png);
+  width: 100px;
+  height: 100px;
 }
 .nav--black .nav__list li .menu-item-link {
   color: #323232;
@@ -12393,7 +12397,7 @@ body.platforms-travel-hospitality-software-development
   }
 }
 .js-hidden .logo-white {
-  background-image: url(img/logo-blue.svg);
+  background-image: url(../images/codey.png);
 }
 @media (min-width: 1221px) {
   .js-hidden {
@@ -12420,20 +12424,20 @@ body.platforms-travel-hospitality-software-development
   }
 }
 .logo {
-  background-image: url(img/logo-blue.svg);
+  background-image: url(../images/codey.png);
   background-size: cover;
   background-position: 50%;
   background-repeat: no-repeat;
   display: block;
-  height: 46px;
-  width: 170px;
+  height: 100px;
+  width: 100px;
   -webkit-transition: -webkit-transform 0.3s;
   transition: -webkit-transform 0.3s;
   transition: transform 0.3s;
   transition: transform 0.3s, -webkit-transform 0.3s;
 }
 .logo-white {
-  background-image: url(img/logo-white.svg);
+  background-image: url(../images/codey.png);
 }
 .nav-mobile {
   position: fixed;
@@ -12462,13 +12466,13 @@ body.platforms-travel-hospitality-software-development
   padding-top: 60px;
 }
 .nav-mobile .nav__logo--mobile .logo {
-  background-image: url(img/logo-blue.svg);
+  background-image: url(../images/codey.png);
   background-size: cover;
   background-position: 50%;
   background-repeat: no-repeat;
   display: block;
-  height: 40px;
-  width: 146px;
+  height: 100px;
+  width: 100px;
   -webkit-transition: -webkit-transform 0.3s;
   transition: -webkit-transform 0.3s;
   transition: transform 0.3s;

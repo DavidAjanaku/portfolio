@@ -2222,8 +2222,8 @@ a:hover {
   background-position: center;
   background-repeat: no-repeat;
   display: block;
-  height: 150px;
-  width: 150px;
+  height: 100px;
+  width: 100px;
   transition: transform 0.3s;
   margin-top: 20px;
   background-image: url(../images/codey.png);
